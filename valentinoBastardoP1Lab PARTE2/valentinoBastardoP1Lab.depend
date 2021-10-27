@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1634731941 source:c:\users\valen\desktop\utn\valentinobastardop1lab\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+
+1634739831 c:\users\valen\desktop\utn\valentinobastardop1lab\color.h
+
+1635344448 source:c:\users\valen\desktop\utn\valentinobastardop1lab\mibiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"miBiblioteca.h"
+
+1635335454 c:\users\valen\desktop\utn\valentinobastardop1lab\mibiblioteca.h
+
+1634731941 source:c:\users\valen\desktop\utn\valentinobastardop1lab\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tipo.h"
+
+1634739931 c:\users\valen\desktop\utn\valentinobastardop1lab\tipo.h
+
+1634737005 source:c:\users\valen\desktop\utn\valentinobastardop1lab\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicio.h"
+
+1634739831 c:\users\valen\desktop\utn\valentinobastardop1lab\servicio.h
+
+1635344999 source:c:\users\valen\desktop\utn\valentinobastardop1lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"miBiblioteca.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"bicicleta.h"
+	"trabajo.h"
+	"biciWarehouse.h"
+	"jobWarehouse.h"
+
+1635341414 c:\users\valen\desktop\utn\valentinobastardop1lab\bicicleta.h
+	"miBiblioteca.h"
+	"tipo.h"
+	"color.h"
+
+1635343884 source:c:\users\valen\desktop\utn\valentinobastardop1lab\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bicicleta.h"
+
+1635263417 source:c:\users\valen\desktop\utn\valentinobastardop1lab\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+
+1635262093 c:\users\valen\desktop\utn\valentinobastardop1lab\fecha.h
+
+1635344999 c:\users\valen\desktop\utn\valentinobastardop1lab\trabajo.h
+	"fecha.h"
+	"bicicleta.h"
+	"servicio.h"
+
+1635345060 source:c:\users\valen\desktop\utn\valentinobastardop1lab\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+
+1635340835 c:\users\valen\desktop\utn\valentinobastardop1lab\biciwarehouse.h
+	"bicicleta.h"
+
+1635341103 source:c:\users\valen\desktop\utn\valentinobastardop1lab\biciwarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"biciWarehouse.h"
+
+1635342567 source:c:\users\valen\desktop\utn\valentinobastardop1lab\jobwarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"jobWarehouse.h"
+
+1635342731 c:\users\valen\desktop\utn\valentinobastardop1lab\jobwarehouse.h
+	"trabajo.h"
+
